@@ -11,7 +11,7 @@ Dissertation for the degree of Bachelor of Science with honours (Distinction) in
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Burrows-Wheeler Transformation and its Applications](https://github.com/weihao94/Burrows-Wheeler-Transformation-and-its-Applications)
+[<font size="6">Burrows-Wheeler Transformation and its Applications</font>](https://github.com/weihao94/Burrows-Wheeler-Transformation-and-its-Applications)
 <br>
 MA3288 Advanced Undergraduate Research Opportunites (UROPS) in Mathematics I
 <br>
@@ -19,7 +19,7 @@ MA3288 Advanced Undergraduate Research Opportunites (UROPS) in Mathematics I
 
 
 ---
-[NUS Oribital Programme - CP3108B Independent Work](https://github.com/weihao94/The-Drunkards)
+[<font size="6">NUS Oribital Programme - CP3108B Independent Work</font>](https://github.com/weihao94/The-Drunkards)
 <br>
 A basic web application that monitors the queue status of canteen stalls in the university
 <br>
