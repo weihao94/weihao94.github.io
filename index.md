@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Solving the Joint Order Batching and Picker Routing Problem for Large Instances](/sample_page)
+[<font size="6">Solving the Joint Order Batching and Picker Routing Problem for Large Instances</font>](/sample_page)
 <br>
 Dissertation for the degree of Bachelor of Science with honours (Distinction) in Applied Mathematics
 <br>
