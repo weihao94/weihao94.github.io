@@ -4,14 +4,14 @@
 
 ### Projects 
 
-[<font size="6">Solving the Joint Order Batching and Picker Routing Problem for Large Instances</font>](/sample_page)
+[<font size="5">Solving the Joint Order Batching and Picker Routing Problem for Large Instances</font>](/sample_page)
 <br>
 Dissertation for the degree of Bachelor of Science with honours (Distinction) in Applied Mathematics
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[<font size="6">Burrows-Wheeler Transformation and its Applications</font>](https://github.com/weihao94/Burrows-Wheeler-Transformation-and-its-Applications)
+[<font size="5">Burrows-Wheeler Transformation and its Applications</font>](https://github.com/weihao94/Burrows-Wheeler-Transformation-and-its-Applications)
 <br>
 MA3288 Advanced Undergraduate Research Opportunites (UROPS) in Mathematics I
 <br>
@@ -19,7 +19,7 @@ MA3288 Advanced Undergraduate Research Opportunites (UROPS) in Mathematics I
 
 
 ---
-[<font size="6">NUS Oribital Programme - CP3108B Independent Work</font>](https://github.com/weihao94/The-Drunkards)
+[<font size="5">NUS Oribital Programme - CP3108B Independent Work</font>](https://github.com/weihao94/The-Drunkards)
 <br>
 A basic web application that monitors the queue status of canteen stalls in the university
 <br>
