@@ -8,14 +8,14 @@
 <br>
 Dissertation for the degree of Bachelor of Science with honours (Distinction) in Applied Mathematics
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/fyp.png?raw=true"/>
 
 ---
 [<font size="5">Burrows-Wheeler Transformation and its Applications</font>](https://github.com/weihao94/Burrows-Wheeler-Transformation-and-its-Applications)
 <br>
 MA3288 Advanced Undergraduate Research Opportunites (UROPS) in Mathematics I
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bwt.png?raw=true"/>
 
 
 ---
