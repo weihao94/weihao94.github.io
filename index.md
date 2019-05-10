@@ -8,12 +8,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Burrows-Wheeler Transformation and its Applications](https://github.com/weihao94/Burrows-Wheeler-Transformation-and-its-Applications)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [NUS Oribital Programme - CP3108B Independent Work](https://github.com/weihao94/The-Drunkards)
-<img src="images/orbital.pg?raw=true"/>
+<img src="images/orbital.png?raw=true"/>
 
 ---
 
