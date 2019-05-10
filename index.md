@@ -4,12 +4,14 @@
 
 ### Projects 
 
-[Project 1 Title](/sample_page)
+[Solving the Joint Order Batching and Picker Routing Problem for Large Instances](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Burrows-Wheeler Transformation and its Applications](https://github.com/weihao94/Burrows-Wheeler-Transformation-and-its-Applications)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+MA3288 Advanced Undergraduate Research Opportunites (UROPS) in Mathematics I
 
 ---
 [NUS Oribital Programme - CP3108B Independent Work](https://github.com/weihao94/The-Drunkards)
