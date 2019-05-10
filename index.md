@@ -9,9 +9,10 @@
 
 ---
 [Burrows-Wheeler Transformation and its Applications](https://github.com/weihao94/Burrows-Wheeler-Transformation-and-its-Applications)
+MA3288 Advanced Undergraduate Research Opportunites (UROPS) in Mathematics I
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-MA3288 Advanced Undergraduate Research Opportunites (UROPS) in Mathematics I
 
 ---
 [NUS Oribital Programme - CP3108B Independent Work](https://github.com/weihao94/The-Drunkards)
