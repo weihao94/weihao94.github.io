@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Projects 
+## Projects 
 
 [<font size="5">Solving the Joint Order Batching and Picker Routing Problem for Large Instances</font>](/sample_page)
 <br>
@@ -27,7 +27,7 @@ A basic web application that monitors the queue status of canteen stalls in the 
 
 ---
 
-### Other Stuff
+## Other Stuff
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
