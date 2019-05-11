@@ -27,13 +27,16 @@ A basic web application that monitors the queue status of canteen stalls in the 
 
 ---
 
-## Other Stuff
+## Resources
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### For Undergraduate Courses at National university of Singapore
+
+- [ST2137 Computer Aided Data Analysis Tutorial Solutions](https://github.com/weihao94/ST2137-Computer-Aided-Data-Analysis)
+
+### Useful Resources
+
+- [TeXtidote](https://sylvainhalle.github.io/textidote/)
+- [PyConcorde](https://github.com/jvkersch/pyconcorde)
 
 ---
 
