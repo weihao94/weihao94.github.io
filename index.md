@@ -8,7 +8,7 @@
 <br>
 Dissertation for the degree of Bachelor of Science with honours (Distinction) in Applied Mathematics
 <br>
-[Thesis (PDF)](https://github.com/weihao94/pdf/Khoong-Wei-Hao-Honours-Thesis.pdf) | [Slides (PDF)](https://github.com/weihao94/pdf/Final-Talk-Khoong-Wei-Hao.pdf)
+[Thesis (PDF)](https://weihao94.github.io/pdf/Khoong-Wei-Hao-Honours-Thesis.pdf) | [Slides (PDF)](https://weihao94.github.io/pdf/Final-Talk-Khoong-Wei-Hao.pdf)
 <br>
 <img src="images/fyp.png?raw=true"/>
 
@@ -17,7 +17,7 @@ Dissertation for the degree of Bachelor of Science with honours (Distinction) in
 <br>
 MA3288 Advanced Undergraduate Research Opportunites (UROPS) in Mathematics I
 <br>
-[Slides (PDF)](https://github.com/weihao94/pdf/Khoong-WeiHao-Burrows-Wheeler-Transformation-and-its-Applications-(Slides).pdf)
+[Slides (PDF)](https://weihao94.github.io/pdf/Khoong-WeiHao-Burrows-Wheeler-Transformation-and-its-Applications-(Slides).pdf)
 <br>
 <img src="images/bwt.png?raw=true"/>
 
