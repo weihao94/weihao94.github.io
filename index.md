@@ -6,18 +6,14 @@
 
 [<font size="5">Solving the Joint Order Batching and Picker Routing Problem for Large Instances</font>](https://github.com/weihao94/Solving-the-Joint-Order-Batching-and-Picker-Routing-Problem-for-Large-Instances)
 <br>
-Dissertation for the degree of Bachelor of Science with honours (Distinction) in Applied Mathematics
-<br>
-[Thesis (PDF)](https://weihao94.github.io/pdf/Khoong-Wei-Hao-Honours-Thesis.pdf) | [Slides (PDF)](https://weihao94.github.io/pdf/Final-Talk-Khoong-Wei-Hao.pdf)
+Dissertation for the degree of Bachelor of Science with honours (Distinction) in Applied Mathematics | [Thesis (PDF)](https://weihao94.github.io/pdf/Khoong-Wei-Hao-Honours-Thesis.pdf) | [Slides (PDF)](https://weihao94.github.io/pdf/Final-Talk-Khoong-Wei-Hao.pdf)
 <br>
 <img src="images/fyp.png?raw=true"/>
 
 ---
 [<font size="5">Burrows-Wheeler Transformation and its Applications</font>](https://github.com/weihao94/Burrows-Wheeler-Transformation-and-its-Applications)
 <br>
-MA3288 Advanced Undergraduate Research Opportunites (UROPS) in Mathematics I
-<br>
-[Slides (PDF)](https://weihao94.github.io/pdf/Khoong-WeiHao-Burrows-Wheeler-Transformation-and-its-Applications-(Slides).pdf)
+MA3288 Advanced Undergraduate Research Opportunites (UROPS) in Mathematics I | [Slides (PDF)](https://weihao94.github.io/pdf/Khoong-WeiHao-Burrows-Wheeler-Transformation-and-its-Applications-(Slides).pdf)
 <br>
 <img src="images/bwt.png?raw=true"/>
 
