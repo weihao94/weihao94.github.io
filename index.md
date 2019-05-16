@@ -8,7 +8,7 @@
 <br>
 Dissertation for the degree of Bachelor of Science with honours (Distinction) in Applied Mathematics
 <br>
-[Thesis (PDF)](https://github.com/weihao94/Solving-the-Joint-Order-Batching-and-Picker-Routing-Problem-for-Large-Instances/blob/master/Khoong%20Wei%20Hao%20Honours%20Thesis.pdf) | [Slides (PDF)](https://github.com/weihao94/Solving-the-Joint-Order-Batching-and-Picker-Routing-Problem-for-Large-Instances/blob/master/Final%20Talk%20-%20Khoong%20Wei%20Hao.pdf)
+[Thesis (PDF)](https://github.com/weihao94/weihao94.github.io/pdf/Khoong-Wei-Hao-Honours-Thesis.pdf) | [Slides (PDF)](https://github.com/weihao94/weihao94.github.io/pdf/Final-Talk-Khoong-Wei-Hao.pdf)
 <br>
 <img src="images/fyp.png?raw=true"/>
 
@@ -17,7 +17,7 @@ Dissertation for the degree of Bachelor of Science with honours (Distinction) in
 <br>
 MA3288 Advanced Undergraduate Research Opportunites (UROPS) in Mathematics I
 <br>
-[Slides (PDF)](https://github.com/weihao94/Burrows-Wheeler-Transformation-and-its-Applications/blob/master/Khoong%20Wei%20Hao%20-%20Burrows%20Wheeler%20Transformation%20and%20its%20Applications%20(Slides).pdf)
+[Slides (PDF)](https://github.com/weihao94/weihao94.github.io/pdf/Khoong-WeiHao-Burrows-Wheeler-Transformation-and-its-Applications-(Slides).pdf)
 <br>
 <img src="images/bwt.png?raw=true"/>
 
