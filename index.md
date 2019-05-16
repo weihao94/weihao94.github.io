@@ -17,6 +17,8 @@ Dissertation for the degree of Bachelor of Science with honours (Distinction) in
 <br>
 MA3288 Advanced Undergraduate Research Opportunites (UROPS) in Mathematics I
 <br>
+[Slides (PDF)](https://github.com/weihao94/Burrows-Wheeler-Transformation-and-its-Applications/blob/master/Khoong%20Wei%20Hao%20-%20Burrows%20Wheeler%20Transformation%20and%20its%20Applications%20(Slides).pdf)
+<br>
 <img src="images/bwt.png?raw=true"/>
 
 
