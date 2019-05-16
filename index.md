@@ -4,7 +4,7 @@
 
 ## Projects 
 
-[<font size="5">Solving the Joint Order Batching and Picker Routing Problem for Large Instances</font>](/sample_page)
+[<font size="5">Solving the Joint Order Batching and Picker Routing Problem for Large Instances</font>](https://github.com/weihao94/Solving-the-Joint-Order-Batching-and-Picker-Routing-Problem-for-Large-Instances)
 <br>
 Dissertation for the degree of Bachelor of Science with honours (Distinction) in Applied Mathematics
 <br>
