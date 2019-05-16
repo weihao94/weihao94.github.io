@@ -8,6 +8,8 @@
 <br>
 Dissertation for the degree of Bachelor of Science with honours (Distinction) in Applied Mathematics
 <br>
+[Thesis (PDF)](https://github.com/weihao94/Solving-the-Joint-Order-Batching-and-Picker-Routing-Problem-for-Large-Instances/blob/master/Khoong%20Wei%20Hao%20Honours%20Thesis.pdf) | [Slides (PDF)](https://github.com/weihao94/Solving-the-Joint-Order-Batching-and-Picker-Routing-Problem-for-Large-Instances/blob/master/Final%20Talk%20-%20Khoong%20Wei%20Hao.pdf)
+<br>
 <img src="images/fyp.png?raw=true"/>
 
 ---
