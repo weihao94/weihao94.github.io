@@ -4,7 +4,7 @@
 
 ## Projects 
 
-[<font size="5">Solving the Joint Order Batching and Picker Routing Problem for Large Instances</font>](https://github.com/weihao94/Solving-the-Joint-Order-Batching-and-Picker-Routing-Problem-for-Large-Instances)
+[<font size="5">Solving the Joint Order Batching and Picker Routing Problem for Large Instances</font>](https://weihao94.github.io/pages/Solving-the-JOBPRP-for-Large-Instances)
 <br>
 Dissertation for the degree of Bachelor of Science with honours (Distinction) in Applied Mathematics | [Thesis (PDF)](https://weihao94.github.io/pdf/Khoong-Wei-Hao-Honours-Thesis.pdf) | [Slides (PDF)](https://weihao94.github.io/pdf/Final-Talk-Khoong-Wei-Hao.pdf)
 <br>
