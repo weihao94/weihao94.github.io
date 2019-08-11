@@ -33,6 +33,7 @@ A basic web application that monitors the queue status of canteen stalls in the 
 
 - [ST2137 Computer Aided Data Analysis Tutorial Solutions](https://github.com/weihao94/ST2137-Computer-Aided-Data-Analysis)
 - [MA4260 Stochastic Operations Research Tutorial(s) with GAMS](https://github.com/weihao94/GAMS-Codes)
+- [MA4268 Mathematics for Visual Data Processing Project Codes with Python](https://github.com/weihao94/MA4268-Mathematics-for-Visual-Data-Processing-Python-Codes)
 
 ### Useful Resources
 
