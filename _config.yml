@@ -10,5 +10,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.kaggle.com/khoongweihao">View My Kaggle Profile</a> 
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 google_analytics: UA-145460203-1 # your Google Analytics tracking ID here
