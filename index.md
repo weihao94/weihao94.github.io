@@ -4,7 +4,7 @@
 
 ## Projects 
 
-[<font size="5">Auto Stock Forecasting Application For Yahoo Finance</font>](https://https://weihao94.github.io/auto-stock-forecasting-app/)
+[<font size="5">Auto Stock Forecasting Application For Yahoo Finance</font>](https://weihao94.github.io/auto-stock-forecasting-app/)
 <br>
 A standalone application built with Python that computes daily stock forecasts from live extracted stock data
 <br>
