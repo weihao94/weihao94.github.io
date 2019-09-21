@@ -4,6 +4,13 @@
 
 ## Projects 
 
+[<font size="5">Auto Stock Forecasting Application For Yahoo Finance</font>](https://https://weihao94.github.io/auto-stock-forecasting-app/)
+<br>
+A standalone application built with Python that computes daily stock forecasts from live extracted stock data
+<br>
+<img src="images/fyp.png?raw=true"/>
+
+---
 [<font size="5">Solving the Joint Order Batching and Picker Routing Problem for Large Instances</font>](https://weihao94.github.io/pages/Solving-the-JOBPRP-for-Large-Instances)
 <br>
 Dissertation for the degree of Bachelor of Science with honours (Distinction) in Applied Mathematics | [Thesis (PDF)](https://weihao94.github.io/pdf/Khoong-Wei-Hao-Honours-Thesis.pdf) | [Slides (PDF)](https://weihao94.github.io/pdf/Final-Talk-Khoong-Wei-Hao.pdf)
