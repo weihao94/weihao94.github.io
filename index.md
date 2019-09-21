@@ -8,7 +8,7 @@
 <br>
 A standalone application built with Python that computes daily stock forecasts from live extracted stock data
 <br>
-<img src="images/fyp.png?raw=true"/>
+<img src="images/FB_forecast.png?raw=true"/>
 
 ---
 [<font size="5">Solving the Joint Order Batching and Picker Routing Problem for Large Instances</font>](https://weihao94.github.io/pages/Solving-the-JOBPRP-for-Large-Instances)
