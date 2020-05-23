@@ -4,6 +4,13 @@
 
 ## Projects 
 
+[<font size="5">DEBoost: A Python Library for Weighted Distance Ensembling in Machine Learning</font>](https://weihao94.github.io/DEBoost/)
+<br>
+DEBoost is a Python library devoted to weighted distance ensembling of predictions for regression and classification tasks. Its backbone resides on the scikit-learn library for default models and data preprocessing functions. It offers flexible choices of models for the ensemble as long as they contain the predict method, like the models available from scikit-learn.
+<br>
+
+
+---
 [<font size="5">Auto Stock Forecasting Application For Yahoo Finance</font>](https://weihao94.github.io/auto-stock-forecasting-app/)
 <br>
 A standalone application built with Python that computes daily stock forecasts from live extracted stock data
