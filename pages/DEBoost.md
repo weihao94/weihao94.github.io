@@ -100,8 +100,6 @@ The preprint can be found at https://www.preprints.org/manuscript/202005.0354/v1
 
 If you will like to make a donation to support us in this open-source project, you may proceed by accessing the donation page in the button below.
 
-[![](https://www.paypalobjects.com/en_GB/SG/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M2CQQ88GMKXXQ)
-
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="M2CQQ88GMKXXQ" />
