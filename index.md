@@ -4,6 +4,14 @@
 
 ## Projects 
 
+[<font size="5">A Heuristic for Efficient Reduction in Hidden Layer Combinations for Feedforward Neural Networks</font>](https://link.springer.com/chapter/10.1007%2F978-3-030-52249-0_14)
+<br>
+In this paper, we describe the hyperparameter search problem in the field of machine learning and present a heuristic approach in an attempt to tackle it. In most learning algorithms, a set of hyperparameters must be determined before training commences. The choice of hyperparameters can affect the final model’s performance significantly, but yet determining a good choice of hyperparameters is in most cases complex and consumes large amount of computing resources. We show the differences between an exhaustive search of hyperparameters and a heuristic search, and show that there is a significant reduction in time taken to obtain the resulting model with marginal differences in evaluation metrics when compared to the benchmark case.
+<br>
+[Springer Publication](https://link.springer.com/chapter/10.1007%2F978-3-030-52249-0_14) | [Preprint](https://arxiv.org/abs/1909.12226) 
+
+
+---
 [<font size="5">DEBoost: A Python Library for Weighted Distance Ensembling in Machine Learning</font>](https://weihao94.github.io/pages/DEBoost)
 <br>
 DEBoost is a Python library devoted to weighted distance ensembling of predictions for regression and classification tasks. Its backbone resides on the scikit-learn library for default models and data preprocessing functions. It offers flexible choices of models for the ensemble as long as they contain the predict method, like the models available from scikit-learn.
