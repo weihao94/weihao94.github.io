@@ -9,7 +9,7 @@
 In this paper, we describe the hyperparameter search problem in the field of machine learning and present a heuristic approach in an attempt to tackle it. In most learning algorithms, a set of hyperparameters must be determined before training commences. The choice of hyperparameters can affect the final model’s performance significantly, but yet determining a good choice of hyperparameters is in most cases complex and consumes large amount of computing resources. We show the differences between an exhaustive search of hyperparameters and a heuristic search, and show that there is a significant reduction in time taken to obtain the resulting model with marginal differences in evaluation metrics when compared to the benchmark case.
 <br>
 [Springer Publication](https://link.springer.com/chapter/10.1007%2F978-3-030-52249-0_14) | [Preprint](https://arxiv.org/abs/1909.12226) 
-<img src="images/computing_conference_img.png?raw=true"/>
+<img src="images/computing_conference_img.PNG?raw=true"/>
 
 ---
 [<font size="5">DEBoost: A Python Library for Weighted Distance Ensembling in Machine Learning</font>](https://weihao94.github.io/pages/DEBoost)
